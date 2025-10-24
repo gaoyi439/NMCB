@@ -17,3 +17,6 @@ coverage of test data, ranking loss of test data and average precision of test d
 ## Specify the dataset argument:
 - bookmark15: bookmark dataset with 15 labels
 - ml_tmc: tmc2007 dataset
+
+**Please note: unzip the dataset before running the code.**
+
