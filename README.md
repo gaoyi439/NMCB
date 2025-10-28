@@ -1,6 +1,6 @@
 # NMCB
 
-This code gives the implementation  of the paper "Data augmentation with consistency regularization for multi-labeled complementary label learning". The paper and appendix can be found at [here](https://gaoyi439.github.io/papers/).
+This code gives the implementation  of the paper "Data augmentation with consistency regularization for multi-labeled complementary label learning". The paper and appendix can be found at [here](https://gaoyi439.github.io/papers/gao_TPAMI2025_NMCB.pdf).
 
  Requirements
 - Python >=3.6
