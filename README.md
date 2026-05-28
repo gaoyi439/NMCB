@@ -20,3 +20,14 @@ coverage of test data, ranking loss of test data and average precision of test d
 
 **Please note: unzip the dataset before running the code.**
 
+---
+## citation
+<code data-enlighter-language="raw" class="EnlighterJSRAW"> @ARTICLE{gao2025data,
+  author={Gao, Yi and Meng, Yuan-Yuan and Xu, Miao and Zhang, Min-Ling},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Data augmentation with regularization for multi-labeled complementary label learning}, 
+   year={2026},
+  volume={48},
+  number={3},
+  pages={2368-2379}
+}</code>
